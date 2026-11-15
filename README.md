@@ -4,7 +4,7 @@ A responsive, animated developer portfolio built with **React**, **Vite** and **
 
 Built for **Task 1: Personal Developer Portfolio & Project Showcase** of the Datheon internship.
 
-- **Live site:** https://your-site.vercel.app
+- **Live site:**https://vivian-naliaka-mukhongo.vercel.app
 - **Author:** Vivian Naliaka Mukhongo, Software Engineer and Computer Science student, Chuka University, Kenya
 
 ![Portfolio screenshot](docs/screenshot.png)
@@ -46,7 +46,7 @@ Built for **Task 1: Personal Developer Portfolio & Project Showcase** of the Dat
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/vivian-portfolio.git
+git clone https://github.com/vivianNova/vivian-portfolio.git
 cd vivian-portfolio
 npm install
 ```
@@ -165,7 +165,7 @@ The site is deployed on **Vercel**.
 
 ## Contact
 
-- Email: vivian.mukhongo@gmail.com
+- Email: vivmukhongo@gmail.com
 - LinkedIn: https://linkedin.com/in/viviannaliaka
 - GitHub: https://github.com/vivianNova
 ## License
